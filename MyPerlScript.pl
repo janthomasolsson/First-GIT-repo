@@ -20,6 +20,6 @@ print "Detta är helt onödigt!";
 
 }
 $helaNamnet=&geNamn('Plamenka','Tanovic Babic');
-print 01101;
+print 11101101;
 print "\n";
 print "$helaNamnet\n";
